@@ -1,0 +1,17 @@
+{
+  "name": "repro-v-if-bug",
+  "version": "1.0.0",
+  "description": "My epic Nuxt.js project",
+  "author": "Yoann Gendrey",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "2.10.1"
+  },
+  "devDependencies": {}
+}
